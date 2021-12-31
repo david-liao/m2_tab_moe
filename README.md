@@ -1,2 +1,1 @@
-# m2_tab_moe
-Code for M2 model incorporating TAB equipped with MoE
+The code accompanying the paper "A Dynamic Mixture-of-Experts Equipped Transformer Attention Bridge for Modularized Multilingual NMT" that is under peer review process. We will release the code upon the acceptance of the journal.
